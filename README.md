@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 👀 I’m interested in web dev.
+- 🌱 I’m currently learning Web dev funds
 <!--
 **Do7a3tef/Do7a3tef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
